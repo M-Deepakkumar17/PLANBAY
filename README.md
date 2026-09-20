@@ -1,4 +1,4 @@
-# 🌍 TripMind — AI-Powered Intelligent Travel Planning Assistant
+# 🌍 PlanBay — AI-Powered Intelligent Travel Planning Assistant
 
 A full-stack AI travel planner: FastAPI + MongoDB backend, a TF-IDF +
 weighted-scoring recommendation engine, a rule-based (optionally LLM-powered)
