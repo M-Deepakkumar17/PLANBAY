@@ -16,7 +16,7 @@ Personalized Travel Plan → Feedback → Preference Learning
 ## 1. Project structure
 
 ```
-TripMind/
+PlanBay/
 ├── backend/
 │   ├── main.py                  FastAPI app entrypoint
 │   ├── requirements.txt
